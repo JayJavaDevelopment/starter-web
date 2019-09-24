@@ -1,0 +1,1 @@
+It is a new file, all content removed. Updated for merge conflict ex. Child branch.
