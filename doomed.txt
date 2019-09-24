@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Again new file from master branch. content cleared.
+=======
+It is a new file, all content removed. Updated for merge conflict ex. Child branch.
+>>>>>>> realwork
