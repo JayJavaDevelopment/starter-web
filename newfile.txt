@@ -10,3 +10,5 @@ Updating newfile for mulitple stash.
 
 
 I'm updating for stash branch command exp.
+
+updating from master brach.
