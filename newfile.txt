@@ -1,1 +1,3 @@
-This is a new file. It is being used to validate diff command.
+This is a new file. 
+
+It is updated in testing branch for testing.
