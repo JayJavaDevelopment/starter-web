@@ -1,3 +1,5 @@
 This is a new file. 
 
 It is updated in testing branch for testing.
+
+Updating newfile for stash experiment.
