@@ -22,3 +22,5 @@ Adding Copy right for the file.
 #Auto merging
 Adding contect to #Auto merging no for rebase example.
 Adding contect to #Auto merging no for rebase example. Second time.
+
+Updating README for mulitple stash.
