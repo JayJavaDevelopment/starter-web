@@ -14,3 +14,6 @@ Adding "how to use" Us for the file.
 
 # Contact Us
 Adding Contact Us for the file. Updated here.
+
+# Copy right
+Adding Copy right for the file. 
