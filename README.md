@@ -1,4 +1,6 @@
 # Introduction
+Change in master for conflict.
+
 Adding introductin for the file. Will work on diff section.
 Adding introductin for the file. Will work on diff section second time.
 
