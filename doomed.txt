@@ -1,7 +1,1 @@
-this is a doomed file.
-
-I'm updating for stash branch command exp.
-
-What is the meaning of doomed in IT.
-
-Updating the file from child branch.
+Again new file from master branch. content cleared.
