@@ -11,3 +11,6 @@ User-agent: *
 # robotstxt.org/
 
 User-agent: *
+
+
+Updating the file for Stash experiment.
